@@ -1,0 +1,18 @@
+.toggle__box-menu {
+    width: 10rem;
+    height: 30rem;
+}
+.toggle__box-menu p, a {
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2rem 0;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.toggle__box-menu svg {
+    background-color: black;
+    
+}
